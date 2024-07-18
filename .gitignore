@@ -1,2 +1,3 @@
 .streamlit
 recordings
+__pycache__
